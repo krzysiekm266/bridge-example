@@ -5,4 +5,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Interactive version
 Bridge test: <br>
-!['BridgeExample'](https://krzysiekm266.github.io/BridgeExample/ 'BridgeExample')
+!['BridgeExample'](https://krzysiekm266.github.io/bridge-example/ 'BridgeExample')
